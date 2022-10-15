@@ -1,8 +1,8 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
+![QR Urself](./renderer/public/images/app-screenshot.PNG)
 
-## Usage
+## Getting Started
 
-### Create an App
+<!-- ### Create an App
 
 ```
 # with npx
@@ -13,26 +13,23 @@ $ yarn create nextron-app my-app --example with-typescript-tailwindcss
 
 # with pnpx
 $ pnpx create-nextron-app my-app --example with-typescript-tailwindcss
-```
+``` -->
 
 ### Install Dependencies
 
-```
+```bash
 $ cd my-app
 
 # using yarn or npm
 $ yarn (or `npm install`)
-
-# using pnpm
-$ pnpm install --shamefully-hoist
 ```
 
-### Use it
+### Build and Use it
 
-```
+```bash
 # development mode
-$ yarn dev (or `npm run dev` or `pnpm run dev`)
+$ npm run dev (or `yarn dev`)
 
 # production build
-$ yarn build (or `npm run build` or `pnpm run build`)
+$ npm run build (or `yarn build`)
 ```

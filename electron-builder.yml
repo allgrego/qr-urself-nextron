@@ -1,6 +1,6 @@
-appId: com.example.nextron
-productName: My Nextron App
-copyright: Copyright © 2018 Yoshihide Shiono
+appId: com.qr.urself
+productName: QR Urself App
+copyright: Copyright © 2022 Allgrego
 directories:
   output: dist
   buildResources: resources
